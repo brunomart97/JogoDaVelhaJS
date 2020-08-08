@@ -20,10 +20,12 @@ h1 {
     border: none;
     outline: none;
     padding: 10px 15px;
-    margin: 0 10px;
+    margin: 0 20px;
+    margin-top: 35px;
     background-color: #9243e0;
     color: #20232A;
     border-radius: 5px;
+    font-size: 30px;
     font-weight: 600;
     cursor: pointer;
 }
@@ -75,9 +77,9 @@ h1 {
 }
 
 /* Classe 'hide' para esconder elementos */
-/*.hide {
+.hide {
     display: none !important;
-}*/
+}
 
 /* Placar */
 #scoreboard-container {
@@ -118,5 +120,4 @@ h1 {
     background-color: #32363E;
     color: #3dc9f0;
     padding: 20px;
-    display: none;
 }
